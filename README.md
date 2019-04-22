@@ -2,8 +2,6 @@
 
 This is a simple readme file
 
-##More text
+##HEADING 2
 
-test
-more testing 123
-This is bound to cause trouble
+Just some text
